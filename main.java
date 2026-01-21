@@ -29,7 +29,7 @@ class Main {
     
     // main
     public static void main(String[] args) {
-        System.out.println("Try programiz.pro");
+        
         
         int myInt = plusMethod(3737, 3030);
         double myDouble = plusMethod(3363.48, 136.52);
