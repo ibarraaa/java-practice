@@ -6,7 +6,7 @@ public class Main{
 
         Encapsulation objPerson = new encapsulation();
 
-
+  
         objPerson.setName("Hiruki");
         objPerson.setCivil("SadBoi");
         System.out.println(objPerson.getName());
