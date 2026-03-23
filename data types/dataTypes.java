@@ -10,7 +10,7 @@ public class dataTypes {
     char myLetter = 'D';
     boolean myBool = true;
     String myText = "Hello";
-
+ 
         // primitive number
     short intShort = 5000;
     int intt = 100000;
